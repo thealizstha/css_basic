@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#box {
+    /*  id lai select garna hash(#) use garne */
+    background-color: blue;
+}
+
+.heading {
+    /*  class lai select garna dot(.) use garne */
+    color: red
+}
+
+
+/* button {
+    background-color: green;
+} */
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+* {
+    font-family: 'Times New Roman';
+    /* * -> select all */
+}
+
+#outer {
+    font-size: 25px;
+}
+
+
+/* outer ma change garda inner ma ne huncha. outer parent ho */
+
+#inner {
+    font-size: 10px;
+}
+
+
+/* hamile inner ma change garna ne milxa child ma */
+
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+
+/* Navbar starts from here
+#navbar {
+    background-color: #0f1111;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+
+button {
+    background-color: #f08804;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 25px;
+    padding-left: 15px;
+}
+
+a {
+    padding-right: 280px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+#search {
+    font-size: 25px;
+    padding-top: 10px;
+}
+Navbar Ends Here
+*/
+
+
+/* Layout starts from here */
+
+#navbar {
+    background-color: #0f1111;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+
+button {
+    background-color: #f08804;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 25px;
+    padding-left: 15px;
+}
+
+a {
+    padding-right: 280px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+#search {
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: #0f1111;
+    height: 70px;
+    padding-top: 20px;
+}
+
+#content {
+    height: 820px;
+}
+
+.contentBox {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px 50px 0px 10px;
+    text-align: center;
+    color: black;
+    padding-top: 200px;
+    margin-top: 170px;
+    margin-left: 320px;
+}
